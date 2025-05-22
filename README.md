@@ -1,1 +1,1 @@
-# Face-Detection-App-Streamlit
+# Face Detection App Streamlit
